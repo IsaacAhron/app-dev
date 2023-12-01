@@ -1,8 +1,8 @@
 # My Favorite Series/Movie
 
-**Title:** [JUJUTSU KAISEN]
+**Title:** [Jujutsu Kaisen]
 
-**Genre:** [DARK FANTASY]
+**Genre:** [Dark Fantasy]
 
 **Release Year:** [2020]
 
