@@ -1,10 +1,8 @@
-# My Favorite Series/Movie
+# Jujutsu Kaisen
 
-**Title:** [Jujutsu Kaisen]
+**Genre:** Action, Supernatural, Dark Fantasy
 
-**Genre:** [Dark Fantasy]
-
-**Release Year:** [2020]
+**Release Year:** 2020
 
 *Brief Description:*
 
